@@ -1,4 +1,4 @@
-# LMSGI01
+# LLSGI01
 ## Ejercicios Tema 1
 
 ### A) Crea documents:
@@ -10,7 +10,7 @@ En los tres documentos he copiado código **_RTF_** y en los tres no he visualiz
 ### B) Omple un repositori GitHub:
 Como ya tenía una cuenta de **Github** los pasos que he seguido han sido:.  
 1. Acceder a mi cuenta, (correo y password).  
-2. He creado un repositorio con el nombre **LMSGI01**. 
+2. He creado un repositorio con el nombre **LLSGI01**. 
 3. Y finalmente he subido los tres archivos (**exemple.rtf, exemple.xml, exemple.html**).
 ### C) Usa Rawgit per veure html de GitHub
-He copiado la siguiente dirección "_https://github.com/amadews23/LMSGI01/blob/master/exemple.html_" en [**RawGit**]( https://rawgit.com/), y el enlace del recuadro "_Use this URL for development_" apuntaba al archivo [**exemple.html**](https://rawgit.com/amadews23/LMSGI01/master/exemple.html)    
+He copiado la siguiente dirección "_https://github.com/amadews23/LLSGI01/blob/master/exemple.html_" en [**RawGit**]( https://rawgit.com/), y el enlace del recuadro "_Use this URL for development_" apuntaba al archivo [**exemple.html**](https://rawgit.com/amadews23/LLSGI01/master/exemple.html)    
