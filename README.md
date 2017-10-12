@@ -8,6 +8,9 @@ En los tres documentos he copiado código **_RTF_** y en los tres no he visualiz
 * El archivo **_html_** me ha mostrado en el navegador el código **_RTF_** "tal cual".    
 * El archivo **_rtf_** se me ha abierto con writer de libreoffice y me ha mostrado el texto: " Soy _cursiva_"
 ### B) Omple un repositori GitHub:
-Ya tenía una cuenta de **Github**, he accedido ha ella y he subido los tres archivos.
+Como ya tenía una cuenta de **Github** los pasos que he seguido han sido:.  
+1. Acceder a mi cuenta, (correo y password).  
+2. He creado un repositorio con el nombre **LMSGI01**. 
+3. Y finalmente he subido los tres archivos (**exemple.rtf, exemple.xml, exemple.html**).
 ### C) Usa Rawgit per veure html de GitHub
 He copiado la siguiente dirección "_https://github.com/amadews23/LMSGI01/blob/master/exemple.html_" en [**RawGit**]( https://rawgit.com/), y el enlace del recuadro "_Use this URL for development_" apuntaba al archivo [**exemple.html**](https://rawgit.com/amadews23/LMSGI01/master/exemple.html)    
