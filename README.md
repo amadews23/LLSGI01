@@ -18,6 +18,6 @@ Como ya tenía una cuenta de **Github** los pasos que he seguido han sido:.
 ### C) Usa Rawgit per veure html de GitHub
 He copiado la siguiente dirección " _https://github.com/amadews23/LLSGI01/blob/master/exemple.html_ " en [**RawGit**]( https://rawgit.com/), y el enlace del recuadro "_Use this URL for development_" apuntaba al archivo [**exemple.html**](https://rawgit.com/amadews23/LLSGI01/master/exemple.html)    
 ### D) Edita README.md explicant el que has fet
-He editado el archivo README.md para mostrar el aspecto actual.
+He editado el archivo **README.md** para mostrar el aspecto actual.
 ### E) Quan ho hagis completat, envia l'enllaç del teu repositori (fes l'entrega)
 Realizo la entrega de la copia del enlace del repositorio  [**https://github.com/amadews23/LLSGI01**](https://github.com/amadews23/LLSGI01) .
