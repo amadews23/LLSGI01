@@ -4,7 +4,8 @@
 ### A) Crea documents:
 He creado tres documentos, con las siguientes extensiones **_.rtf_** , **_.xml_** y **_.html_**   
 En los tres documentos he copiado código **_RTF_** y en los tres no he visualizado lo mismo:  
-* El archivo **_xml_** lo he abierto con el navegador (firefox) y me ha mostrado este error:  "_Error de lectura XML: mal formado Ubicación: file:///home/usuario/Escritorio/FP__/LLSGI/01/exemple.xml Número de línea 1, columna 1:_  {\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Calibri;}} ^"    
+* El archivo **_xml_** lo he abierto con el navegador (firefox) y me ha mostrado este error:  
+>"_Error de lectura XML: mal formado Ubicación: file:///home/usuario/Escritorio/FP__/LLSGI/01/exemple.xml Número de línea 1, columna 1:_  {\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Calibri;}} ^_"    
 * El archivo **_html_** me ha mostrado en el navegador el código **_RTF_** "tal cual".    
 * El archivo **_rtf_** se me ha abierto con writer de libreoffice y me ha mostrado el texto: " Soy _cursiva_"
 ### B) Omple un repositori GitHub:
